@@ -1,0 +1,16 @@
+.button-container {
+    display: none;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.Larry-container {
+    width: 400px;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+#Larry1 {
+    width: 100%;
+    clip-path: inset(0 0 100% 0);
+}
